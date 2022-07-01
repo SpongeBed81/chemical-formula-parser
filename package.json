@@ -1,0 +1,15 @@
+{
+  "name": "chemical-formula-parser",
+  "version": "1.0.0",
+  "description": "A chemical formula parser to get elements in a formula as array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "formula",
+    "chemical"
+  ],
+  "author": "SpongeBed",
+  "license": "MIT"
+}
